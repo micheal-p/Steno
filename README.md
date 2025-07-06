@@ -1,8 +1,4 @@
-Sure! Here’s the updated README.md without the author section:
 
-⸻
-
-✅ README.md for stego-detector
 
 # 🕵️‍♂️ Steganography Detection App
 
